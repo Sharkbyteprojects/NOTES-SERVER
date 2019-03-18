@@ -9,7 +9,6 @@
   },
   "dependencies": {
     "express": "^4.16.1",
-    "grunt": "^1.0.3",
     "morgan": "^1.9.1"
   }
 }
