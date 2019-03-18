@@ -1,4 +1,4 @@
-# ![BUILD: PASSED](https://fire-engine-icons.github.io/stable-unstable/SVG%20files/SHARK%20STABLE.svg)
+# [![Gitter](https://badges.gitter.im/Sharkbyteprojects/NOTES-SERVER.svg)](https://gitter.im/Sharkbyteprojects/NOTES-SERVER?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) ![BUILD: PASSED](https://fire-engine-icons.github.io/stable-unstable/SVG%20files/SHARK%20STABLE.svg)
 # NOTES-SERVER
 ## Make notes in your network
 
