@@ -6,4 +6,4 @@ before_script:
   - npm install express
   - npm install morgan
 script:
-    node index.js
+    npm start
