@@ -2,8 +2,5 @@ language: node_js
 node_js:
   - "7"
 os: linux
-before_script:
-  - npm install express
-  - npm install morgan
 script:
     npm start
