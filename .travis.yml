@@ -3,4 +3,5 @@ node_js:
   - "7"
 os: osx
 script:
+    npm install
     npm start
