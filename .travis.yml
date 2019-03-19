@@ -7,4 +7,4 @@ node_js:
   - "11.12"
 os: osx
 script:
-    npm test
+    node index.js
