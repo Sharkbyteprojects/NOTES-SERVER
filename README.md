@@ -2,6 +2,8 @@
 # NOTES-SERVER
 ## Make notes in your network
 
+- [LATEST NEWS](https://gitter.im/Sharkbyteprojects/NOTES-SERVER?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
 ---
 
 - [Docker HUB](https://hub.docker.com/r/shark2byte/notes-server)
