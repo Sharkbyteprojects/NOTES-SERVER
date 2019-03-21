@@ -15,6 +15,6 @@ app.use(morgan('common', { immediate: true }));
 
 app.use('/filemaster', movieRouter);
 
-app.listen(8080, () => {
-  console.log('Server is listening to http://localhost:8080');
+app.listen(80, () => {
+  console.log('Server is listening to http://localhost');
 });
